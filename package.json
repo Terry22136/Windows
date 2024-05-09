@@ -1,7 +1,7 @@
 {
-    "name": "VenomPrivat5k",
+    "name": "Windows",
     "version": "3.0.0",
-    "description": "Whatsapp bot de travas usando Nodejs",
+    "description": "Windows",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
