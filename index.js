@@ -27,5 +27,5 @@ function start() {
          if (code == '.' || code == 1 || code == 0) start()
       })
 }
-//start() 
-Taira
+start() 
+//Taira
