@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //configurar dono
-global.numerodono = "263784932864"
+global.numerodono = "2347080968564"
 global.nomedono = "Makino"
 global.nomebot = 'Makino' 
 global.ytvenom = "YT: https://youtube.com"
@@ -15,7 +15,7 @@ global.packnome = ''
 global.author = ''
 
 //false= desativado e true= ativado
-global.autoGravar = false //gravação automática
+global.autoGravar = true //gravação automática
 global.autoDigitar = false //digitação automática
 global.autoreDigitarGravar = false //digitação automática + gravação
 global.autoVisualizarMsg = false //leitura automática de mensagens
